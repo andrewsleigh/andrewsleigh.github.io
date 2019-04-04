@@ -19,10 +19,12 @@ regenerate: true
 
 
   {% for item in doclist %}
+
+      
  <div>
         <h1 class="catalogue-title"> <a href="{{ site.baseurl }}{{ item.url }}" class="catalogue-item">{{ item.title }}</a></h1>
-<!--         <div class="catalogue-line"></div> -->
-        {{ item.excerpt }}
-      </div>
+
+         <a href="{{ site.baseurl }}{{ item.url }}" class="excerpt_link_no_highlight">{{ item.excerpt }}</a>
+      </div>      
   
 {% endfor %}
