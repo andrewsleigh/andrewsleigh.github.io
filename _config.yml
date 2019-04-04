@@ -1,0 +1,108 @@
+permalink: pretty
+markdown: kramdown
+excerpt_separator: <!--more--> 
+twitter_username: andrewsleigh
+github_username:  andrewsleigh
+title: Andrew Sleigh
+email: andrew.sleigh@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Making, DIY technology, grassroots innovation
+baseurl: "/ascom" # the subpath of your site, e.g. /blog
+url: "https://andrewsleigh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# redirects: https://github.com/jekyll/jekyll-redirect-from
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
+
+
+# collections
+collections: 
+
+  projects:
+    prettylabel: "Projects" 
+    permalink: /:collection/:name
+    output: true  
+
+  making:
+    prettylabel: "Making"
+    permalink: /:collection/:name
+    output: true
+  
+
+
+# prose CMS
+prose:
+  # rooturl: '_posts'
+  # Restricts authoring access to a directory
+
+  siteurl: 'http://andrewsleigh.github.io/ascom/'
+  # Turns on Jekyll live previews. The url is the homepage of the live site.
+
+  # relativeLinks: 'http://andrewsleigh.github.io/ascom/links.jsonp'
+  # Displays a list of links to a user from the link dropdown on markdown files. The url should be JSONP and structured as an array of objects in the following format: {"text": "Local Link", "href": "http://mapbox.com" }
+  # not sure what this does, but seems to break things...
+    
+  media: 'assets' 
+  # Specify a media directory uploading images defaults to. When media is added to this directory, a listing of available assets is populated from the image dropdown link on markdown files
+  
+  metadata:
+  # Removes editing yml front matter to provide clean dropdown forms to select default options
+  
+    _posts:
+    # frontmatter for the _posts directory
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "author"
+        field:
+          element: "hidden"
+          value: "Andrew"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: ""
+
+    _projects:
+    #frontmatter for all work projects
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "project"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "author"
+        field:
+          element: "hidden"
+          value: "Andrew"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: ""
+      - name: "timespan"
+        field:
+          element: "text"
+          label: "Project Timespan"
+          value: "Current"
+          
+
