@@ -151,7 +151,7 @@ prose:
       - name: "timespan"
         field:
           element: "text"
-          label: "Project Timespan"
+          label: "Project Timespan" # don't really need this now for _making but it might be useful in the future.
           value: "Current"
           
 
