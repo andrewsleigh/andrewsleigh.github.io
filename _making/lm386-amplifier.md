@@ -12,7 +12,6 @@ guid: http://andrewsleigh.com/?page_id=1623
 dsq_thread_id:
   - "1973898619"
 ---
-<img class="alignnone size-full wp-image-1640" title="IMG_1010" src="/assets/2013/11/IMG_1010.jpg" alt="" />
 
 <img class="alignnone size-full wp-image-1641" title="IMG_1013" src="/assets/2013/11/IMG_1013.jpg" alt="" />
 
@@ -20,9 +19,9 @@ The LM386 chip is a simple and cheap amplifier chip that is used in countless au
 
 <!--more-->
 
-<img class="alignnone size-full wp-image-1641" title="IMG_1013" src="/assets/2013/11/IMG_1013.jpg" alt="" />
-
 This is not a complete how-to guide, you can find plenty of those elsewhere. It’s just a write-up of some of the things I learned – and modifications I made – along the way.
+
+<img class="alignnone size-full wp-image-1640" title="IMG_1010" src="/assets/2013/11/IMG_1010.jpg" alt="" />
 
 ## Instructions
 
