@@ -10,7 +10,7 @@ Using prose to create a new making project page
 
 ![IMG_4920.jpg]({{site.baseurl}}/assets/images/IMG_4920.jpg)
 
-<!-- more -->
+<!--more-->
 
 Content after the more tag.
 

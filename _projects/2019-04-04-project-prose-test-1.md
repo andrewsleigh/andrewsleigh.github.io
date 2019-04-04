@@ -9,6 +9,6 @@ date: '2019-04-04'
 ---
 Creating a new project in Prose
 
-<!-- more -->
+<!--more-->
 
 Something after the more tag
