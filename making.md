@@ -9,7 +9,7 @@ regenerate: true
 
 redirect_from:
   - /howto/
-  - /making/
+
 
 
 ---
