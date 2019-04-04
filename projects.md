@@ -8,7 +8,8 @@ permalink: "/projects/"
 
 redirect_from:
   - /work/
-  - /projects/
+  - /speaking/
+  - /clients/
 
 
 regenerate: true

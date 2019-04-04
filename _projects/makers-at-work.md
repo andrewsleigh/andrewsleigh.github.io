@@ -4,7 +4,7 @@ permalink: /projects/makers-at-work/
 
 redirect_from:
   - /makers-at-work/
-  - /projects/makers-at-work/
+
 
 
 id: 1792

@@ -4,7 +4,6 @@ permalink: /projects/didiy/
 
 redirect_from:
   - /didiy/
-  - /projects/didiy/
 
 
 id: 2061

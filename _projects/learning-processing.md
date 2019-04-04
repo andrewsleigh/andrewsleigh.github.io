@@ -4,7 +4,7 @@ permalink: /projects/learning-processing/
 
 redirect_from:
   - /learning-processing/
-  - /projects/learning-processing/
+
 
 
 id: x

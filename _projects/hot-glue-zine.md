@@ -4,7 +4,7 @@ permalink: /projects/hot-glue-zine/
 
 redirect_from:
   - /hot-glue-zine/
-  - /projects/hot-glue-zine/
+
 
 
 id: 1512

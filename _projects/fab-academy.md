@@ -4,7 +4,7 @@ permalink: /projects/fab-academy/
 
 redirect_from:
   - /fab-academy/
-  - /projects/fab-academy/
+
 
 
 id: 2293

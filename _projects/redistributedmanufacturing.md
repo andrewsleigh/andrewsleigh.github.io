@@ -4,7 +4,7 @@ permalink: /projects/redistributedmanufacturing/
 
 redirect_from:
   - /redistributedmanufacturing/
-  - /projects/redistributedmanufacturing/
+
 
 
 id: 2140

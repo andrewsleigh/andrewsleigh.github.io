@@ -9,6 +9,8 @@ regenerate: true
 
 redirect_from:
   - /howto/
+  - /projects/howdo/
+  - /projects/microphone-shock-mount/
 
 
 

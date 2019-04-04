@@ -4,7 +4,7 @@ permalink: /projects/hello-shenzhen/
 
 redirect_from:
   - /hello-shenzhen/
-  - /projects/hello-shenzhen/
+
 
 
 id: 2215

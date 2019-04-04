@@ -4,7 +4,7 @@ permalink: /projects/maker-assembly/
 
 redirect_from:
   - /maker-assembly/
-  - /projects/maker-assembly/
+
 
 
 id: 1951

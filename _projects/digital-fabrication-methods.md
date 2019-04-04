@@ -4,7 +4,7 @@ permalink: /projects/digital-fabrication-methods/
 
 redirect_from:
   - /digital-fabrication-methods/
-  - /projects/digital-fabrication-methods/
+
 
 
 title: Digital Fabrication Methods

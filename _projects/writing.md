@@ -4,7 +4,7 @@ permalink: /projects/writing/
 
 redirect_from:
   - /writing/
-  - /projects/writing/
+
 
 
 id: 1038

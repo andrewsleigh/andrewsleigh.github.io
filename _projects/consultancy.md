@@ -4,7 +4,6 @@ permalink: /projects/consultancy/
 
 redirect_from:
   - /consultancy/
-  - /projects/consultancy/
 
 
 id: x

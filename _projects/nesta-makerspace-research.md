@@ -4,7 +4,7 @@ permalink: /projects/nesta-makerspace-research/
 
 redirect_from:
   - /nesta-makerspace-research/
-  - /projects/nesta-makerspace-research/
+
 
 
 id: 1856

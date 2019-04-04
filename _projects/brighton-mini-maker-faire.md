@@ -4,7 +4,6 @@ permalink: /projects/brighton-mini-maker-faire/
 
 redirect_from:
   - /brighton-mini-maker-faire/
-  - /projects/brighton-mini-maker-faire/
 
 
 id: 1096

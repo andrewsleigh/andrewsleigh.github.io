@@ -4,7 +4,6 @@ permalink: /projects/looking-sideways/
 
 redirect_from:
   - /looking-sideways/
-  - /projects/looking-sideways/
 
 
 id: 2020
