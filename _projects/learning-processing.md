@@ -15,7 +15,7 @@ layout: page
 guid: x
 ---
 
-[<img src="/assets/2018/08/circle-packing6-sm.png" alt=""     class="alignnone size-full wp-image-2313" />](https://andrewsleigh.com/learning/processing/)
+<img src="/assets/2018/08/circle-packing6-sm.png" alt=""     class="alignnone size-full wp-image-2313" />
 
 Following on from Fab Academy, I&#8217;m learning Processing, the programming language for visual art, interactivity and generative design. 
 
@@ -23,4 +23,5 @@ Following on from Fab Academy, I&#8217;m learning Processing, the programming la
 
 <!--more-->
 
-[More&#8230;](https://andrewsleigh.com/learning/processing/)
+
+The code is all publicly available in the [GitHub repository](https://github.com/andrewsleigh/learning-processing) and published through [GitHub Pages](https://andrewsleigh.github.io/learning-processing).
