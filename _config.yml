@@ -52,6 +52,14 @@ prose:
   
     _posts:
     # frontmatter for the _posts directory
+    
+      # workaround for default unpublished metadata issue: https://github.com/prose/prose/issues/111
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
+    
       - name: "category"
         field:
           element: "hidden"
