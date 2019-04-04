@@ -120,3 +120,38 @@ prose:
           value: "Current"
           
 
+    _making:
+    #frontmatter for all making projects
+      # workaround for default unpublished metadata issue: https://github.com/prose/prose/issues/111
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "project"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "author"
+        field:
+          element: "hidden"
+          value: "Andrew"
+
+      # I've removed the title field, so I can hand write a title without a date being added
+
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: ""
+      - name: "timespan"
+        field:
+          element: "text"
+          label: "Project Timespan"
+          value: "Current"
+          
+
