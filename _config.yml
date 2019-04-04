@@ -44,7 +44,7 @@ prose:
   # Displays a list of links to a user from the link dropdown on markdown files. The url should be JSONP and structured as an array of objects in the following format: {"text": "Local Link", "href": "http://mapbox.com" }
   # not sure what this does, but seems to break things...
     
-  media: 'assets' 
+  media: 'assets/images' 
   # Specify a media directory uploading images defaults to. When media is added to this directory, a listing of available assets is populated from the image dropdown link on markdown files
   
   metadata:
