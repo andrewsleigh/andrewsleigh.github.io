@@ -14,11 +14,12 @@ layout: page
 
 ---
 
-<img src="{{ "/assets/2019/teaching.jpg" | relative_url }}"  alt=”liquid filter 2” />
 
-![Image test]({{ "/assets/2019/teaching.jpg" | relative_url }})
+![Teaching]({{ "/assets/2019/teaching.jpg" | relative_url }})
 
+<!-- 
 <img src="/assets/2019/teaching.jpg" alt="" class="alignnone size-full wp-image-1805" />
+ -->
 
 I'm teaching a course in digital fabrication – and learning by making – at the University of Brighton.
 
