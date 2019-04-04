@@ -14,7 +14,7 @@ layout: page
 
 ---
 
-<img src={{ "/assets/2019/teaching.jpg" | relative_url }} alt="liquid filter"/>
+<img src="{{ "/assets/2019/teaching.jpg" | relative_url }}"  alt=”liquid filter 2” />
 
 ![Image test]{{ "/assets/2019/teaching.jpg" | relative_url }}
 
