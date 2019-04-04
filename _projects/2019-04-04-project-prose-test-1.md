@@ -3,7 +3,7 @@ author: Andrew
 layout: page
 category: project
 timespan: Current
-published: false
+published: true
 title: Project prose test 1
 date: '2019-04-04'
 ---
