@@ -37,7 +37,7 @@ prose:
   # rooturl: '_posts'
   # Restricts authoring access to a directory
 
-  siteurl: 'http://andrewsleigh.github.io/ascom/'
+  siteurl: 'http://andrewsleigh.github.io/'
   # Turns on Jekyll live previews. The url is the homepage of the live site.
 
   # relativeLinks: 'http://andrewsleigh.github.io/ascom/links.jsonp'
@@ -103,11 +103,9 @@ prose:
         field:
           element: "hidden"
           value: "Andrew"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
+
+      # I've removed the title field, so I can hand-write a title without a date being added
+
       - name: "date"
         field:
           element: "text"
@@ -141,7 +139,7 @@ prose:
           element: "hidden"
           value: "Andrew"
 
-      # I've removed the title field, so I can hand write a title without a date being added
+      # I've removed the title field, so I can hand-write a title without a date being added
 
       - name: "date"
         field:
