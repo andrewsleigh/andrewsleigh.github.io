@@ -1,7 +1,7 @@
 ---
 permalink: /making/pinhole-solar-photography/
 redirect_from:
-  - //
+  - /pinhole-solar-photography/
 
 id: 821
 title: Pinhole Solar photography

@@ -1,7 +1,7 @@
 ---
 permalink: /making/rgb-projection-light/
 redirect_from:
-  - /pinhole-solar-photography/
+  - /rgb-projection-light/
 
 id: 1986
 title: RGB Projection Light
