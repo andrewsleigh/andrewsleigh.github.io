@@ -10,12 +10,16 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://andrewsleigh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-# redirects: https://github.com/jekyll/jekyll-redirect-from
+
 plugins:
-  - jekyll-redirect-from
+  - jekyll-redirect-from # redirects: https://github.com/jekyll/jekyll-redirect-from
+  - jekyll-feed # atom rss feed: https://help.github.com/en/articles/atom-rss-feeds-for-github-pages
 whitelist:
   - jekyll-redirect-from
-
+  - jekyll-feed
+  
+feed:
+  path: feed.xml  
 
 # collections
 collections: 
