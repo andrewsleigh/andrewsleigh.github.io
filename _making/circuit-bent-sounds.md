@@ -35,15 +35,15 @@ All files are in AIF format and compressed into ZIP archives. You&#8217;re free 
     </p>
     
     <p>
-      <strong><a href="http://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/SnM-Microclicks.zip">Microclicks</a></strong><br />21 clicks, cuts and jerks.
+      <strong><a href="https://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/SnM-Microclicks.zip">Microclicks</a></strong><br />21 clicks, cuts and jerks.
     </p>
     
     <p>
-      <strong><a href="http://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/SnM-Words.zip">Words</a></strong><br />Gibberish, come-ons and arithmetic poetry.
+      <strong><a href="https://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/SnM-Words.zip">Words</a></strong><br />Gibberish, come-ons and arithmetic poetry.
     </p>
     
     <p>
-      <strong><a href="http://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/SnM-Tones.zip">Tones</a></strong><br />34 pitched tones, yelps and beeps.
+      <strong><a href="https://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/SnM-Tones.zip">Tones</a></strong><br />34 pitched tones, yelps and beeps.
     </p>
   </div>
   
@@ -65,11 +65,11 @@ All files are in AIF format and compressed into ZIP archives. You&#8217;re free 
     </p>
     
     <p>
-      <strong><a href="http://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/SnS-Hits.zip">Hits</a></strong><br />One-shot gargles and hiccups
+      <strong><a href="https://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/SnS-Hits.zip">Hits</a></strong><br />One-shot gargles and hiccups
     </p>
     
     <p>
-      <strong><a href="http://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/SnS-TonalPatterns.zip">Tonal patterns</a></strong><br />Pitched and re-pitched melodic patterns
+      <strong><a href="https://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/SnS-TonalPatterns.zip">Tonal patterns</a></strong><br />Pitched and re-pitched melodic patterns
     </p>
   </div>
   
@@ -91,19 +91,19 @@ All files are in AIF format and compressed into ZIP archives. You&#8217;re free 
     </p>
     
     <p>
-      <strong><a href="http://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/CasioSA35-Tones.zip">Tones</a></strong><br />31 tonal (and atonal) hits and sequences
+      <strong><a href="https://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/CasioSA35-Tones.zip">Tones</a></strong><br />31 tonal (and atonal) hits and sequences
     </p>
     
     <p>
-      <strong><a href="http://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/CasioSA35-MashedLoops.zip">Mashed loops</a></strong><br />12 degraded digital lock grooves
+      <strong><a href="https://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/CasioSA35-MashedLoops.zip">Mashed loops</a></strong><br />12 degraded digital lock grooves
     </p>
     
     <p>
-      <strong><a href="http://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/CasioSA35-MashedClips.zip">Mashed clips</a></strong><br />37 slices of bubble and squeak
+      <strong><a href="https://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/CasioSA35-MashedClips.zip">Mashed clips</a></strong><br />37 slices of bubble and squeak
     </p>
     
     <p>
-      <strong><a href="http://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/CasioSA35-DrumHits.zip">Drum hits</a></strong><br />13 single hits chopped from the SA-35&#8217;s built-in rhythm accompaniment.
+      <strong><a href="https://dl.dropbox.com/u/1151441/AndrewSleigh-com/downloads/CasioSA35-DrumHits.zip">Drum hits</a></strong><br />13 single hits chopped from the SA-35&#8217;s built-in rhythm accompaniment.
     </p>
   </div>
   
