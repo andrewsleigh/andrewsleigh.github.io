@@ -8,7 +8,12 @@ email: andrew.sleigh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Making, DIY technology, grassroots innovation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://andrewsleigh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://andrewsleigh.com" # the base hostname & protocol for your site, 
+
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://andrewsleigh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
 
 
 plugins:
@@ -41,7 +46,8 @@ prose:
   # rooturl: '_posts'
   # Restricts authoring access to a directory
 
-  siteurl: 'http://andrewsleigh.github.io/'
+  # siteurl: 'http://andrewsleigh.github.io/'
+  siteurl: 'https://andrewsleigh.com/'
   # Turns on Jekyll live previews. The url is the homepage of the live site.
 
   # relativeLinks: 'http://andrewsleigh.github.io/ascom/links.jsonp'
