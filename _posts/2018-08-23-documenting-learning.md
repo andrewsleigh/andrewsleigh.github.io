@@ -72,13 +72,15 @@ I’m using a similar system to track my experiments with Processing, and publis
 
 ~~I copy the relevant project files to a local Git repository, and then push this to Github as I work. Project files referred to in the documentation all point to publicly accessible files in the [Github repo](https://github.com/andrewsleigh/learning-processing).~~
 
-**Update: 2019-04-15.** I've adjusted my system, and now going allin on GitHub as a hosting platform. So my workflow has simplified slightly. I write my notes in Markdown, but other than for testing, don't need to run a local Jekyll server. When I'm done writing, I commit the changes in Git, and then push them to the repository on GitHub. 
+---
+
+**Update: 2019-04-15.** I've adjusted my system, and now going all-in on GitHub as a hosting platform. So my workflow has simplified slightly. I write my notes in Markdown, but other than for testing, don't need to run a local Jekyll server. When I'm done writing, I commit the changes in Git, and then push them to the repository on GitHub. 
 
 GitHub Pages then handles the conversion of those Markdown files to HTML, and serving from a github.io domain. 
 
 So the public docs now live at [https://andrewsleigh.github.io/learning-processing](https://andrewsleigh.github.io/learning-processing)
 
-I’m writing plaintext notes in BBEdit, using Markdown for formatting, and running Jekyll locally to view rendered webpages. Then I periodically sync the local sitebin with a folder on my webhost. This could probably be automated – **if you know how, please let me know.**
+---
 
 
 Each experiment is written up as its own note, which translates to a series of date-ordered blog posts on the live site. I’ve found this approach has a number of benefits
