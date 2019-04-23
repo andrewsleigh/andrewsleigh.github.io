@@ -16,8 +16,12 @@ guid: http://andrewsleigh.com/?page_id=1038
 dsq_thread_id:
   - "1118028648"
 ---
+<!-- 
 
 [<img class="alignnone size-full wp-image-1039" title="Natalia-800px" src="/assets/2013/03/Natalia-800px.jpeg" alt="" />](writing)
+ -->
+
+[<img class="alignnone size-full wp-image-1039" title="writing" src="/assets/2019/writing.png" alt="" />](writing)
 
 I write and speak about technology, business, art, and making. I&#8217;m interested in new digital fabrication tools, maker startups and the creative use of technology. I&#8217;m also interested in critical approaches to technology, craft and manufacturing. 
 
