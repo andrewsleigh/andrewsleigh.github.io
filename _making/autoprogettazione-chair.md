@@ -12,18 +12,20 @@ layout: page
 
 
 
-![]({{ "/assets/2019/IMG_0298.jpg" | relative_url }})
+![]({{ "/assets/2019/IMG_5889.jpg" | relative_url }})
 
 Making a design classic, one of Enzo Mari's famous pieces of Autoprogettazione furniture.
 
 <!--more-->
 
-![]({{ "/assets/2019/IMG_5889.jpg" | relative_url }})
 
-Yes, it is just as uncomfortable as it looks.
+
+
 
 
 I came across Enzo Mari through talking with [Will Holman](http://objectguerilla.com/blog/2013/9/26/autopreggizione) about utopian designers, though once I learned of his work, it seemed as though every designer and architect I met nodded enthusiastically when I mentioned his name. So as a holiday project, I decided to make one of his pieces of 'DIY' furniture; perhaps the most iconic of the series presented in the Autoprogettazione book, the 'P' chair.
+
+Yes, it is just as uncomfortable as it looks.
 
 ![]({{ "/assets/2019/IMG_5903.jpg" | relative_url }})
 
@@ -36,5 +38,6 @@ The Autoprogettazione project (approximately, 'self-design') is often referenced
 The 2014 edition of the book includes a text by Mari reflecting on his original work and how it had been received. I can't find a digital source for this text, so here's a scan of the essay where he talks about the meaning of the project.
 
 <!-- ![]({{ "/assets/2019/IMG_5927-crop.jpg" | relative_url }}) -->
-![]({{ "/assets/2019/mari text-p51.gif" | relative_url }})
 ![]({{ "/assets/2019/mari text-p49.gif" | relative_url }})
+
+![]({{ "/assets/2019/mari text-p51.gif" | relative_url }})
