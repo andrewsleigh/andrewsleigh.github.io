@@ -27,6 +27,8 @@ I came across Enzo Mari through talking with [Will Holman](http://objectguerilla
 
 Yes, it is just as uncomfortable as it looks.
 
+![]({{ "/assets/2019/IMG_2324.jpg" | relative_url }})
+
 ![]({{ "/assets/2019/IMG_5903.jpg" | relative_url }})
 
 ![]({{ "/assets/2019/IMG_5917.jpg" | relative_url }})
