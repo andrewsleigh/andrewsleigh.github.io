@@ -12,6 +12,8 @@ layout: page
 
 In 2018, I worked on this new online service for Knowledge Transfer Network to help people develop innovative products.
 
+<span class="label">2018</span>
+
 <!--more-->
 
 [Smithery](https://www.smithery.com) is a strategic design consultancy, and they asked me to do user research on a project for KTN, to help inform the design an online _Innovation Canvas_; a tool to help innovators explore their ideas for new products and services, assess their current performance, and figure out where to focus effort. By meeting and interviewing users, building and testing prototypes, and understanding internal and external imperatives, we were able to build a tool that is approachable, and useful to a wide set of users.
