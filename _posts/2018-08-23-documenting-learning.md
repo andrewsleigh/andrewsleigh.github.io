@@ -90,5 +90,3 @@ Each experiment is written up as its own note, which translates to a series of d
   * I tend to increment the version number of a file as I try a significant change. So, in theory, it should be possible to trace back through a project and see simpler versions by going back to earlier version numbers, or find solutions by looking at later versions. But in practice, learning and play is not linear like this. I might do some work on one problem, reach a dead end and then work on something else. Then I discover a solution and return to the first problem. By keeping a time-ordered series of notes, I can track this hopping between branches, in a way that the sequential file listing in the Git repo doesn’t reveal. 
 
 Incidentally, I’m using the URL format: /learning/processing. I figure that maybe I’ll do the same for other learning projects in the future. Maybe we can look forward to learning/yoga or learning/metalwork &#8230;
-
-hello
