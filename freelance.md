@@ -21,7 +21,7 @@ My experience is pretty broad, covering everything from research and strategy, t
 
 Currently, most of my work is in teaching, research, supporting creative communities, or helping organisations deal with change brought about by digital technology. I’m most interested in work that explores, promotes or is powered by individual or grassroots creativity. That has included:
 
-* [Teaching](/projects/digital-fabrication-methods/) (and [studying](/projects/fab-academy/)) digital fabrication, and exploring learning through making
+  * [Teaching](/projects/digital-fabrication-methods/) (and [studying](/projects/fab-academy/)) digital fabrication, and exploring learning through making
   * Researching the impact of digital fabrication and collaboration technologies on the future of manufacturing ([A New Normal](/projects/redistributedmanufacturing/), for the Royal College of Art)
   * Mapping makerspaces as sites of new communities forming around DIY technology ([UK makerspaces research](/projects/nesta-makerspace-research/) for Nesta)
   * Exploring new digital media channels that let anyone become a broadcaster (my own podcasts: [Looking Sideways](https://lookingsideways.net) and [Unreliable Devices](http://fab.academany.org/2018/labs/fablabbrighton/students/andrew-sleigh/), as well as shows for the Crafts Council)
