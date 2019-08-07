@@ -7,7 +7,8 @@ title: Fab-able Arduino
 date: 2019-03-28
 author: Andrew
 layout: page
-
+hero_image: /assets/2019/hello328p-milledandstuffed.jpg
+tags: homepage // will be featured on homepage gallery
 ---
 ![](/assets/2019/hello328p-milledandstuffed.jpg)
 

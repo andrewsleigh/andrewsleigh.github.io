@@ -10,9 +10,8 @@ date: 2011-05-03T20:46:14+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com
-dsq_thread_id:
-  - "715826080"
-  
+hero_image: /assets/images/3447723955_26e731618f_o.jpg
+tags: homepage // will be featured on homepage gallery
 
 ---
 

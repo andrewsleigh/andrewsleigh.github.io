@@ -9,8 +9,7 @@ date: 2013-11-17T16:26:07+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=1623
-dsq_thread_id:
-  - "1973898619"
+hero_image: /assets/2013/11/IMG_1013.jpg
 ---
 
 <img class="alignnone size-full wp-image-1641" title="IMG_1013" src="/assets/2013/11/IMG_1013.jpg" alt="" />

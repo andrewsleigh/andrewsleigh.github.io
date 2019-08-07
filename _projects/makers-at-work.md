@@ -13,8 +13,7 @@ date: 2014-10-09T20:39:31+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=1792
-dsq_thread_id:
-  - "3100837457"
+hero_image: /assets/2014/10/maw_poster-sm2.jpg
 ---
 
 <img src="/assets/2014/10/maw_poster-sm2.jpg" alt="Makers at Work"     class="alignnone size-full wp-image-1793" />

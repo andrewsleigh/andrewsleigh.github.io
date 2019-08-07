@@ -5,6 +5,7 @@ permalink: /projects/looking-sideways/
 redirect_from:
   - /looking-sideways/
 
+tags: homepage // will be featured on homepage gallery
 
 id: 2020
 title: Looking Sideways
@@ -12,6 +13,7 @@ date: 2016-02-23T20:00:28+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=2020
+hero_image: /assets/2016/02/disabledicon.jpeg
 ---
 <img class="size-full wp-image-2021" src="/assets/2016/02/disabledicon.jpeg" alt=" Accessible Icon Project"     />
 

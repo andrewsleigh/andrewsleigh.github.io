@@ -4,6 +4,7 @@ title: KTN Innovation Canvas
 date: 2018-08-01
 author: Andrew
 layout: page
+hero_image: /assets/2019/ktn-work2.png
 
 ---
 

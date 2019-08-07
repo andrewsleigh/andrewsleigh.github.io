@@ -9,8 +9,7 @@ date: 2012-05-10T17:11:45+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=673
-dsq_thread_id:
-  - "715843812"
+hero_image: /assets/2013/03/7163599536_a2b693383c_h.jpg
 ---
 I&#8217;m running an experiment. Inspired by the open hardware movement, I decided to design a product, document the design process and parameters of the product, and share it, to encourage adaption and improvement by others. 
 

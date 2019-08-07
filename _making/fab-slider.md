@@ -7,7 +7,8 @@ title: Fab Slider
 date: 2019-06-04
 author: Andrew
 layout: page
-
+hero_image: /assets/2019/IMG_2033.jpg
+tags: homepage // will be featured on homepage gallery
 ---
 ![]({{ "/assets/2019/IMG_2033.jpg" | relative_url }})
 

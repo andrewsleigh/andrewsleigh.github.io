@@ -5,7 +5,7 @@ permalink: /projects/maker-assembly/
 redirect_from:
   - /maker-assembly/
 
-
+tags: homepage // will be featured on homepage gallery
 
 id: 1951
 title: Maker Assembly
@@ -13,8 +13,7 @@ date: 2015-11-12T13:46:21+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=1951
-dsq_thread_id:
-  - "4312336932"
+hero_image: /assets/2018/01/sm-team-shot.jpeg
 ---
 
 <img class="wp-image-2225 size-full" src="/assets/2018/01/sm-team-shot.jpeg" alt=""     />

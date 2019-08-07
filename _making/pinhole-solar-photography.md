@@ -9,6 +9,8 @@ date: 2011-11-24T12:40:22+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=601
+hero_image: /assets/flickr/6393984043_0fedaa0ae2_b_d.jpg
+tags: homepage // will be featured on homepage gallery
 
 ---
 <img class="" src="/assets/flickr/6393984043_0fedaa0ae2_b_d.jpg" alt="Pinhole camera 2 photo paper - inverted and adjusted"     /> 

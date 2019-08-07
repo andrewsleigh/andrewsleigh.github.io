@@ -13,8 +13,7 @@ date: 2013-10-02T21:45:29+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=1512
-dsq_thread_id:
-  - "1818832223"
+hero_image: /assets/2013/10/IMG_4129.jpg" alt="IMG_4129
 ---
 <img src="/assets/2013/10/IMG_4129.jpg" alt="IMG_4129"     class="alignnone size-full wp-image-1814" />
 

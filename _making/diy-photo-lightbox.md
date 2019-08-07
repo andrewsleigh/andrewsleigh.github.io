@@ -9,8 +9,7 @@ date: 2011-05-03T11:02:03+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com
-dsq_thread_id:
-  - "715824314"
+hero_image: /assets/flickr/5659482040_3e33a97156_b_d.jpg
 ---
 <img class="border" src="/assets/flickr/5659482040_3e33a97156_b_d.jpg" alt="Complete box, on"     />
 

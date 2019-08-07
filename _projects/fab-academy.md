@@ -5,7 +5,7 @@ permalink: /projects/fab-academy/
 redirect_from:
   - /fab-academy/
 
-
+tags: homepage // will be featured on homepage gallery
 
 id: 2293
 title: Fab Academy
@@ -13,8 +13,9 @@ date: 2018-07-05T15:32:42+00:00
 author: Andrew
 layout: page
 guid: https://andrewsleigh.com/?page_id=2293
+hero_image: /assets/2018/IMG_0775.jpg
 ---
-<img class="alignnone size-full wp-image-2294" src="/assets/2018/07/IMG_2314-sm.jpg" alt=""     />
+<img class="alignnone size-full wp-image-2294" src="/assets/2018/IMG_0775.jpg" alt=""     />
 
 From January to June 2018, I took part in [Fab Academy](http://fabacademy.org), the globally-distributed learning programme of the Fablab network.  
 

@@ -1,10 +1,9 @@
 ---
 permalink: /projects/brighton-mini-maker-faire/
-
-
 redirect_from:
   - /brighton-mini-maker-faire/
 
+tags: homepage // will be featured on homepage gallery
 
 id: 1096
 title: Brighton Mini Maker Faire
@@ -12,6 +11,8 @@ date: 2013-03-14T10:58:11+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=1096
+hero_image: /assets/2013/03/Brighton-Mini-Maker-Faire-2014-Photo-Roberta-Matis-252.jpg
+
 ---
 <img src="/assets/2013/03/Brighton-Mini-Maker-Faire-2014-Photo-Roberta-Matis-252.jpg" alt="Photograph by Roberta Matis, taken at Brighton Mini Maker Faire 2014" class="alignnone size-full wp-image-1805" />
 

@@ -13,8 +13,7 @@ date: 2014-11-23T22:48:11+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=1856
-dsq_thread_id:
-  - "3256176383"
+hero_image: /assets/2014/11/noisebridge.jpg
 ---
 <img src="/assets/2014/11/noisebridge.jpg" alt="Noisebridge"     class="size-full wp-image-1850" style="-webkit-filter: grayscale(100%);-moz-filter: grayscale(100%);filter: grayscale(100%);  -webkit-filter:sepia(50%); filter:sepia(50%);" />
 

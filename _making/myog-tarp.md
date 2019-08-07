@@ -9,8 +9,8 @@ date: 2013-11-17T11:49:14+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=1567
-dsq_thread_id:
-  - "1973333341"
+hero_image: /assets/2013/11/IMG_0903.jpg
+tags: homepage // will be featured on homepage gallery
 ---
 <img class="alignright size-full wp-image-1568" title="IMG_0903" src="/assets/2013/11/IMG_0903.jpg" alt="" />
 

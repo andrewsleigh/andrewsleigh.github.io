@@ -9,8 +9,7 @@ date: 2011-05-03T18:56:57+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com
-dsq_thread_id:
-  - "715834111"
+hero_image: /assets/images/IMG_4920.jpg
 ---
 
 ![IMG_4920.jpg]({{ "/assets/images/IMG_4920.jpg" | relative_url }})

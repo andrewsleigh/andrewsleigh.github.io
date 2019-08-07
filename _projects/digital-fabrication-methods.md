@@ -5,12 +5,14 @@ permalink: /projects/digital-fabrication-methods/
 redirect_from:
   - /digital-fabrication-methods/
 
-
+tags: homepage // will be featured on homepage gallery
 
 title: Digital Fabrication Methods
 date: 2019-03-19
 author: Andrew
 layout: page
+
+hero_image: /assets/2019/teaching.jpg
 
 ---
 

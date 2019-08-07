@@ -4,7 +4,8 @@ title: Tools for Learning
 date: 2019-07-16
 author: Andrew
 layout: page
-
+hero_image: /assets/2019/tools-for-learning-grid-1600.jpg
+tags: homepage // will be featured on homepage gallery
 ---
 
 ![]({{ "/assets/2019/tools-for-learning-grid-1600.jpg" | relative_url }})

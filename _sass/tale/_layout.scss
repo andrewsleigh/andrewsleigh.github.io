@@ -26,13 +26,13 @@ footer,
   &-title {
     @include transition(all .2s ease-out);
     color: $default-color;
-    // display: inline-block;
+ //   display: inline-block;
     margin: 0;
     padding-right: .2rem;
 
     &:hover,
     &:focus {
-      opacity: .6;
+//      opacity: .6;
     }
   }
 
@@ -45,11 +45,11 @@ footer,
   }
 
   li {
-    @include transition(all .2s ease-out);
-    color: $default-color;
+ //   @include transition(all .2s ease-out);
+ //   color: $default-color;
     display: inline-block;
-    opacity: .6;
-    padding: 0 2rem 0 0;
+ //   opacity: .6;
+ //   padding: 0 2rem 0 0;
 
     &:last-child {
       padding-right: 0;
@@ -75,7 +75,7 @@ footer,
 
     ul {
       bottom: 0;
-      position: absolute;
+     // position: absolute;
      // right: 0;
     }
   }

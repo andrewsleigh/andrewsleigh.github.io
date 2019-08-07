@@ -13,6 +13,7 @@ date: 2018-08-30
 author: Andrew
 layout: page
 guid: x
+hero_image: /assets/2018/08/circle-packing6-sm.png
 ---
 
 <img src="/assets/2018/08/circle-packing6-sm.png" alt=""     class="alignnone size-full wp-image-2313" />

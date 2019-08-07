@@ -9,8 +9,8 @@ date: 2013-01-01T18:18:34+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=936
-dsq_thread_id:
-  - "1003111862"
+hero_image: /assets/2013/01/pen-case-1.jpg
+tags: homepage // will be featured on homepage gallery
 ---
 <img src="/assets/2013/01/pen-case-1.jpg" alt="" title="pen-case-1" class="size-full wp-image-1589" />
 

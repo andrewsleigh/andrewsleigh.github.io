@@ -6,7 +6,8 @@ title: Autoprogettazione Chair
 date: 2015-12-24
 author: Andrew
 layout: page
-
+hero_image: /assets/2019/IMG_5889.jpg
+tags: homepage // will be featured on homepage gallery
 ---
 
 

@@ -5,7 +5,7 @@ permalink: /projects/redistributedmanufacturing/
 redirect_from:
   - /redistributedmanufacturing/
 
-
+tags: homepage // will be featured on homepage gallery
 
 id: 2140
 title: 'Redistributed Manufacturing: A New Normal'
@@ -13,6 +13,7 @@ date: 2017-10-01T20:21:23+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=2140
+hero_image: /assets/images/post-couture.jpeg
 ---
 <img class="wp-image-2143 size-full" src="/assets/2013/03/DSCF4117-sm.jpeg" alt=""     />
 

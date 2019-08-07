@@ -7,7 +7,8 @@ title:
 date: 2019-03-28
 author: Andrew
 layout: page
-
+hero_image: /assets/2019/IMG_0298.jpg
+tags: homepage // will be featured on homepage gallery
 ---
 
 

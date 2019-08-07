@@ -9,9 +9,8 @@ date: 2011-07-31T20:21:18+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com
-dsq_thread_id:
-  - "469578055"
-  - "469578055"
+hero_image: /assets/images/5906621610_76c63f89f4_o.jpg
+tags: homepage // will be featured on homepage gallery
 ---
 
 ![5906621610_76c63f89f4_o.jpg]({{ "/assets/images/5906621610_76c63f89f4_o.jpg" | relative_url }})

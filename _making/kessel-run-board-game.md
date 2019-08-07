@@ -9,6 +9,7 @@ date: 2015-11-14T19:53:08+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=1962
+hero_image: /assets/2015/11/IMG_5755.jpg
 ---
 [<img class="aligncenter size-full wp-image-1969" src="/assets/2015/11/IMG_5755.jpg" alt="Kessel Run" />](/assets/2015/11/IMG_5755.jpg)
 

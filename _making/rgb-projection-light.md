@@ -9,6 +9,8 @@ date: 2015-12-17T17:30:14+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=1986
+hero_image: /assets/2015/12/IMG_5718.jpg
+tags: homepage // will be featured on homepage gallery
 ---
 <img class="aligncenter size-full wp-image-2004" src="/assets/2015/12/IMG_5718.jpg" alt="IMG_5718"     />
 
@@ -16,15 +18,15 @@ This LED lamp is a simple lighting project that reuses a three colour LED light 
 
 <!--more-->
 
-Following these principles, you could take the project in many directions. For me was an opportunity to try turning something functional but graceless into something simple and elegant, and to make it to a high standard by reusing existing materials that are high quality but also cheap/free.
+Following these principles, you could take the project in many directions. For me it was an opportunity to try turning something functional but graceless into something simple and elegant, and to make it to a high standard by reusing existing materials that are high quality but also cheap/free.
 
-You can also find [this project on Instructables](http://www.instructables.com/id/RGB-Projection-Light/).
+You can also find [this project on Instructables](http://www.instructables.com/id/RGB-Projection-Light/) with complete photos.
 
 * * *
 
 &nbsp;
 
-We had bought a cheap LED light from Amazon, designed to be used as a disco light for house parties. It has three LEDs (Red, Green and Blue) spaced apart on a circuit board. The board is mounted inside a black tube, and there’s a motor with a spindle running through the middle of the tube that turns a faceted clear plastic dome, through which the lights shine. The result is a shifting pattern of red, green and blue light (and mixtures thereof) on the wall. It runs off the mains, and has some kid of built-in transformer, but the design and build quality is kind of shonky, and the geared motor makes too much noise.
+We had bought a cheap LED light from Amazon, designed to be used as a disco light for house parties. It has three LEDs (Red, Green and Blue) spaced apart on a circuit board. The board is mounted inside a black tube, and there’s a motor with a spindle running through the middle of the tube that turns a faceted clear plastic dome, through which the lights shine. The result is a shifting pattern of red, green and blue light (and mixtures thereof) on the wall. It runs off the mains, and has some kind of built-in transformer, but the design and build quality is kind of shonky, and the geared motor makes too much noise.
 
 So we took it apart, and started playing around with the lights themselves. It turns out that if you mount just the lights inside a tube, and shine that against a wall, you get a lovely, simple pattern of overlapping coloured segments. So it’s a very colourful light, but the overall effect on the space is neutral.
 
@@ -54,7 +56,7 @@ This is what I used, but other than an LED light (a circuit board with three LED
 
 ## Step 3: Cut the plywood for the base
 
-
+<img src="/assets/2015/FZWIQ4AII96YFEF.jpg"/>
 
 The basic design is a tube that rests horizontally in a wooden cradle, so the light can be projected at a wall.
 
@@ -68,7 +70,7 @@ Save the discs. You’ll need one or two of these to make the end plate of the l
 
 ## Step 4: Glue up and trim the base to size
 
-
+<img src="/assets/2015/FIZ700ZII96YFEG.jpg"/>
   
 At this stage, you should have 6 or so sheets of plywood, each with a semicircular hole. Glue these up and clamp them overnight.
 
@@ -87,6 +89,7 @@ As there was some unevenness I couldn’t sand away, I had to use some wood fill
 ## Step 5: Make the lamp tube
 
 
+<img src="/assets/2015/F4AR2VAII96YGW7.jpg"/>
   
 Cut a length of your drainpipe. It needs to be long enough to hold your LED circuit board, plus a mounting plate to hold it in place, plus a back plate to give a nice finish. I made my tube slightly longer than the base, so it protrudes about 1cm over each side.
 
@@ -94,7 +97,7 @@ Use sandpaper to clean up the sawn ends, and then wet-and-dry to take the gloss 
 
 ## Step 6: Mount the LED circuit board
 
-
+<img src="/assets/2015/F44U99OII96YFH3.jpg"/>
   
 Fortunately, the circuit board I used was a pretty good fit for the tube, with only a little needing to be taken off the corners with a hacksaw.
 
@@ -104,7 +107,7 @@ Put the bolts through from the back of the disc, followed by a nut tightened dow
 
 ## Step 7: Wire up the LED board to the power cord
 
-
+<img src="/assets/2015/FGFOKH6II96YFTH.jpg"/>
   
 The LED light comes with an ugly power cord that you probably don&#8217;t want to use, so trim this off, just before it is attached to the transformer, keeping a note of which wire goes where.
 
@@ -117,6 +120,9 @@ It it’s all in order, you can use a hot glue gun to fix any loose components o
 ## Step 8: Make the back plate
 
 
+<img src="/assets/2015/FLVI9L3II96YFPH.jpg"/>
+
+<img src="/assets/2015/FOMK9QIII96YFWQ.jpg"/>
 
 I used a second disc to make a separate back plate. You could probably get away with just one, but this gives you more flexibility in where you position the LEDs in the tube, and adds some heft to the light.
 
@@ -130,6 +136,11 @@ I also added a small brass cord grip into the back plate to hold the cord secure
 
 ## Step 9: Finished
 
+
+
+<img src="/assets/2015/FWPE5PLII96YFXJ.jpg"/>
+
+<img src="/assets/2015/FQ0EFLIII96YFYD.jpg"/>
 
 
 You may want to varnish or paint the wooden parts at this point, but basically, you’re done.

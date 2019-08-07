@@ -4,7 +4,7 @@ permalink: /projects/didiy/
 
 redirect_from:
   - /didiy/
-
+tags: homepage // will be featured on homepage gallery
 
 id: 2061
 title: Digital DIY
@@ -12,6 +12,7 @@ date: 2016-06-22T16:38:10+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=2061
+hero_image: /assets/2013/03/BrightonMiniMakerFaire2015PhotoRobertaMatis-_-174-sm.jpeg
 ---
 <img src="/assets/2013/03/BrightonMiniMakerFaire2015PhotoRobertaMatis-_-174-sm.jpeg" alt=""     class="aligncenter size-full wp-image-2059" />
 

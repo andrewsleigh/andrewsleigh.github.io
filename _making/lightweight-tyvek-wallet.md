@@ -9,6 +9,8 @@ date: 2017-01-27T17:47:32+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=2109
+hero_image: /assets/2017/01/FFD3U13IY0FXV39.LARGE_.jpg
+tags: homepage // will be featured on homepage gallery
 ---
 <img class="aligncenter size-full wp-image-2111" src="/assets/2017/01/FFD3U13IY0FXV39.LARGE_.jpg" alt="wallet1"     />
 

@@ -13,8 +13,7 @@ date: 2013-03-04T21:33:05+00:00
 author: Andrew
 layout: page
 guid: http://andrewsleigh.com/?page_id=1038
-dsq_thread_id:
-  - "1118028648"
+hero_image: /assets/2013/03/Natalia-800px.jpeg
 ---
 <!-- 
 
