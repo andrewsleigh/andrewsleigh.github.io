@@ -26,8 +26,7 @@ I don't hope to answer these larger questions through this project alone, but it
 * [Project site](http://andrewsleigh.com/soft-fabrication/)
 * [Github repository](https://github.com/andrewsleigh/soft-fabrication)
 
-## 
-
+ 
 
 ![IMG_2711.jpg]({{ "/assets/2019/IMG_2711.jpg" | relative_url }})
 
