@@ -24,7 +24,7 @@ Behind these questions is a set of much larger questions about alternatives to m
 I don't hope to answer these larger questions through this project alone, but it is a way for me to play with them through making.
 
 * [Project site](http://andrewsleigh.com/soft-fabrication/)
-* [Github repository](https://github.com/andrewsleigh/soft-fabrication)
+* [GitHub repository](https://github.com/andrewsleigh/soft-fabrication)
 
  
 
