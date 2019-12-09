@@ -7,10 +7,10 @@ title: Pen Plotter
 date: 2019-12-09
 author: Andrew
 layout: page
-hero_image: /assets/2019/plotter-v2-hero.jpg
+hero_image: /assets/2019/6515.jpg
 tags: homepage // will be featured on homepage gallery
 ---
-![]({{ "/assets/2019/plotter-v2-hero.jpg" | relative_url }})
+![]({{ "/assets/2019/6515.jpg" | relative_url }})
 
 From bits to atoms, screen to paper 
 <!--more-->
