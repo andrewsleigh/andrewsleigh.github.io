@@ -15,11 +15,9 @@ tags: homepage // will be featured on homepage gallery
 From bits to atoms, screen to paper 
 <!--more-->
 
-This plotter is an part of an ongoing investigation into machine design that started with my camera slider. The slider is a one axis machine, the plotter has two. Both are simple machines, but in order to work, need to be **good**. So building this plotter has been an exercise in getting the last 10% right. 
+This plotter is an part of an ongoing investigation into machine design that started with my camera slider. The slider is a one axis machine, the plotter has two. Both are simple machines, but in order to work, need to be _good_. So building this plotter has been an exercise in getting the last 10% right. It also serves as an output for my experiments with Processing and p5. 
 
-It runs a variant of the standard Grbl software (adapted for pen plotters that use a servo motor to raise and lower the pen). All the 3D files and documentation are available in the GitHub repo.
-
-It also serves as an output for my experiments with Processing and p5. 
+It runs a variant of the standard Grbl software (adapted for pen plotters that use a servo motor to raise and lower the pen). Design is in Fusion360. All the 3D files and documentation are available in the GitHub repo.
 
 
 * [Project site](http://andrewsleigh.com/plotter/)
