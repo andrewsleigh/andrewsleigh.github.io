@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Snowflakes as a Service: Generate vector snowflakes for your plotter</title>
+
+  <!-- <link href="https://fonts.googleapis.com/css?family=Calistoga|Fredoka+One&display=swap" rel="stylesheet"> -->
+  <script src="snowflakes-large3.js"></script>
+  <script src="libraries/p5.js"></script>
+  <script src="libraries/p5.svg.js"></script>
+
+  <style>
+    body {
+      background: #fff;
+      /* #6BF178; */
+      /* #39c; */
+      color: #706C61;
+      /* font-family: 'Calistoga', sans-serif; */
+      font-family: 'Fredoka One', sans-serif;
+    }
+
+    h1 {
+      font-size: 40px;
+      /* color: #fff; */
+      /* letter-spacing: 2px; */
+    }
+
+
+    div#defaultCanvas {
+      /* outline: 1px solid #ff0; */
+      /* padding: 65px 75px 75px 65px;
+      background-image: url("coral-wall-frame-background.svg");
+      background-position: top left;
+      width: 800px; */
+    }
+
+
+    div.form {
+      background: #FFE74C;
+      padding: 0px;
+      border-radius: 16px;
+      border: 16px solid #FFE74C;
+
+
+
+    }
+
+    .slider {
+      -webkit-appearance: none;
+      width: 200px;
+      height: 16px;
+      border-radius: 8px;
+      background: linear-gradient(#706C61, #899E8B);
+      outline: none;
+      opacity: 0.7;
+      -webkit-transition: .2s;
+      transition: opacity .2s;
+      margin: 10px;
+      /* text-align: right;
+      float: right; */
+    }
+
+
+    .slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 1px solid #fff;
+      opacity: 1;
+      background: linear-gradient(#899E8B, #706C61);
+      cursor: pointer;
+      box-shadow: #003;
+    }
+
+    /* TODO */
+    /* .slider::-moz-range-thumb {
+      width: 25px;
+      height: 25px;
+      border-radius: 50%;
+      background: #4CAF50;
+      cursor: pointer; 
+    } */
+
+
+    .button {
+      /* display: block; */
+
+      -webkit-appearance: none;
+      /* width: 100px; */
+      height: 32px;
+      color: #fff;
+      border: #706C61;
+      border-radius: 8px;
+      background: linear-gradient(#899E8B, #706C61);
+      font-weight: bold;
+      font-size: 16px;
+      outline-style: none;
+      inset: none;
+      padding: 8px 12px;
+
+      outline: none;
+      /* opacity: 0.7; */
+      -webkit-transition: .2s;
+      transition: opacity .2s;
+      margin: 10px;
+    }
+
+
+    .button:disabled {
+      /* color: #999;
+      background: #666; */
+      opacity: 0.5;
+    }
+
+
+    label {
+      /* width: 300px; */
+
+    }
+
+
+    body {
+      display: flex;
+      flex-flow: row wrap;
+      padding: 20px;
+    }
+
+    /* We tell all items to be 100% width, via flex-basis */
+    body>* {
+      flex: 1 100%;
+      /* border: 1px solid #666; */
+    }
+
+    /* We rely on source order for mobile-first approach
+ * in this case:
+ * 1. header
+ * 2. article
+ * 3. aside 1
+ * 4. aside 2
+ * 5. footer
+ */
+
+    /* Medium screens */
+    @media all and (min-width: 600px) {
+
+      /* We tell both sidebars to share a row */
+      .aside {
+        flex: 1 auto;
+      }
+    }
+
+    /* Large screens */
+    @media all and (min-width: 800px) {
+
+      /* We invert order of first sidebar and main
+   * And tell the main element to take twice as much width as the other two sidebars 
+   */
+      .main,
+      div#defaultCanvas {
+        flex: 2 0px;
+      }
+
+      .aside-1 {
+        order: 1;
+        flex: 2 0 0;
+        margin-right: 20px;
+        margin-bottom: 20px;
+      }
+
+      .main,
+      div#defaultCanvas {
+        order: 2;
+      }
+
+      .aside-2 {
+        order: 3;
+      }
+
+      .footer {
+        order: 4;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+
+
+  <!-- <div class="wrapper"> -->
+
+  <aside class="aside aside-1">
+
+    <h1>Snowflakes as a Service (SaaS)</h1>
+
+    <p>Design your snowflakes using the sliders, and when you're happy with them, save your art as an SVG.
+      From there you can generate instructions for your <a href="http://andrewsleigh.com/plotter/">plotter</a>. Don't
+      have a plotter? I also offer SPaaS (Snowflake
+      Plotting as a Service); get in touch.
+    </p>
+
+    <div class="form">
+      <h3>Customise your snowflakes</h3>
+
+      <p> <label>Snowfall:</label>
+        <input type="range" id="Slider_NumberOfCells" min="1" max="15" value="9" name="Slider_NumberOfCells"
+          class="slider">
+        <output id="output"></output>
+      </p>
+
+
+      <p> <label>Bigness:</label>
+        <input type="range" id="Slider_ArmLength" min="20" max="100" name="Slider_ArmLength" class="slider">
+        <output id="output"></output>
+      </p>
+
+      <p><label>Flakiness:</label>
+        <input type="range" id="Slider_BranchLength" name="Slider_BranchLength" class="slider">
+      </p>
+      <p>
+        Chaos:
+        <input type="range" id="Slider_BranchLengthVariation" name="Slider_BranchLengthVariation" class="slider">
+      </p>
+
+      <h3>Control display</h3>
+      <p>
+        <input type="button" class="button" value="Loop forever" id="Loop_forever" onclick="loopForever()">
+
+        <input type="button" class="button" id="Generate_another_set" value="Generate one more set" onclick="freeze()">
+
+      </p>
+
+      <h3>Save</h3>
+      <p>
+        <input type="button" class="button" value="Save Art" onclick="saveArt()">
+      </p>
+    </div>
+  </aside>
+
+
+
+</body>
+
+</html>
