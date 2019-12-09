@@ -1,5 +1,5 @@
 ---
-permalink: /making/snowflakes/
+permalink: /making/p5-snowflakes/
 
 
 id: xxx
@@ -7,10 +7,10 @@ title: Snowflakes as a Service
 date: 2019-12-09
 author: Andrew
 layout: page
-hero_image: /assets/2019/IMG_6515.jpg
+hero_image: /assets/2019/snowflakes-screenshot-4-3.png
 tags: 
 ---
-![]({{ "/assets/2019/IMG_6515.jpg" | relative_url }})
+![]({{ "/assets/2019/snowflakes-screenshot-4-3.png" | relative_url }})
 
 Procedural snowflakes generated in p5
 <!--more-->
