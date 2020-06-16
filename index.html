@@ -5,81 +5,84 @@ layout: default
 
 
 <h1>Currently</h1>
- <div class="catalogue-line"></div>
+<div class="catalogue-line"></div>
 <ul>
-	<li><a href="/projects/digital-fabrication-methods/">Teaching Digital Fabrication</a> at the University of Brighton</li>
-	<li><a href="https://wildebeestdiaries.wordpress.com">Vanlife</a>: on the road in our van in Europe</li>
-	<li>More <a href="/projects/maker-assembly">Maker Assembly</a> monthly events at STEAMhouse in Birmingham</li>
-	<li>I'm available for <a href="{{ site.baseurl }}freelance">freelance work</a>, mostly remotely, or in Europe</li>
+  <li><a href="/projects/digital-fabrication-methods/">Teaching Digital Fabrication</a> at the University of Brighton
+  </li>
+  <li><a href="https://plusx.space/locations/brighton/">Co-managing the prototyping workshop at PlusX Brighton</li>
+  <li><a href="/making/plotter">Making digital/analogue art with a pen plotter</li>
+  <!-- <li><a href="https://wildebeestdiaries.wordpress.com">Vanlife</a>: on the road in our van in Europe</li> -->
+  <!-- <li>More <a href="/projects/maker-assembly">Maker Assembly</a> monthly events at STEAMhouse in Birmingham</li> -->
+  <li>I'm available for <a href="{{ site.baseurl }}freelance">freelance work</a></li>
 </ul>
 
 
 <div class="gallery">
 
-<!-- Images should be in 4x3 spect ratio -->
+  <!-- Images should be in 4x3 spect ratio -->
 
-  
+
   <h1>Projects</h1>
-   <div class="catalogue-line"></div>
-   
+  <div class="catalogue-line"></div>
+
   <div class="gallery__list">
-  {% assign projects_list =  site.projects | where: "tags","homepage" | sort: 'date' | reverse  %}
+    {% assign projects_list =  site.projects | where: "tags","homepage" | sort: 'date' | reverse  %}
     {% for item in projects_list  limit:55 %}
 
-      <div class="gallery_container">   
-        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">
-          <figure>
-            <img src="{{item.hero_image}}"/>
-          </figure>
-          <figcaption class="text-block">
-            <span>{{ item.title }}</span>
-          </figcaption>
-        </a>
-      </div>
-  {% endfor %}
-  
-        <div class="gallery_container">   
-        <a href="{{ site.url }}{{ site.baseurl }}/projects">
-          <figure class = "more">
-             <img src="/assets/4x3-transparent.png"/>
-          </figure>
-          <figcaption class="text-block">
-            <span>More ...</span>
-          </figcaption>
-        </a>
-      </div>
+    <div class="gallery_container">
+      <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">
+        <figure>
+          <img src="{{item.hero_image}}" />
+        </figure>
+        <figcaption class="text-block">
+          <span>{{ item.title }}</span>
+        </figcaption>
+      </a>
+    </div>
+    {% endfor %}
+
+    <div class="gallery_container">
+      <a href="{{ site.url }}{{ site.baseurl }}/projects">
+        <figure class="more">
+          <img src="/assets/4x3-transparent.png" />
+        </figure>
+        <figcaption class="text-block">
+          <span>More ...</span>
+        </figcaption>
+      </a>
+    </div>
   </div>
 
   <h1>Making</h1>
-     <div class="catalogue-line"></div>
-   
+  <div class="catalogue-line"></div>
+
 
   <div class="gallery__list">
-  {% assign making_list =  site.making | where: "tags","homepage" | sort: 'date' | reverse  %}
+    {% assign making_list =  site.making | where: "tags","homepage" | sort: 'date' | reverse  %}
     {% for item in making_list   limit:50 %}
 
-      <div class="gallery_container">   
-        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">
-          <figure>
-            <img src="{{item.hero_image}}"/>
-          </figure>
-          <figcaption class="text-block">
-            <span>{{ item.title }}</span>
-          </figcaption>
-        </a>
-      </div>
-  {% endfor %}
-  
-      <div class="gallery_container">   
-        <a href="{{ site.url }}{{ site.baseurl }}/making">
-          <figure class = "more">
-            <img src="/assets/4x3-transparent.png"/>
-          </figure>
-          <figcaption class="text-block">          
-            <span>More ...</span>
-          </figcaption>
-        </a>
-      </div>
+    <div class="gallery_container">
+      <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">
+        <figure>
+          <img src="{{item.hero_image}}" />
+        </figure>
+        <figcaption class="text-block">
+          <span>{{ item.title }}</span>
+        </figcaption>
+      </a>
+    </div>
+    {% endfor %}
+
+    <div class="gallery_container">
+      <a href="{{ site.url }}{{ site.baseurl }}/making">
+        <figure class="more">
+          <img src="/assets/4x3-transparent.png" />
+        </figure>
+        <figcaption class="text-block">
+          <span>More ...</span>
+        </figcaption>
+      </a>
+    </div>
 
 
- </div>
+  </div>
