@@ -12,4 +12,4 @@ Things I'm pointing to on other services:
 
 [Buy my plotter art](https://penuppendown.square.site)
 
-[Job role in workshop at Plus X](https://plusx.space/about/careers/)
+[Workshop events at Plus X](https://www.eventbrite.co.uk/e/make-at-plus-x-hand-made-leather-goods-workshop-tickets-159819017985?aff=ebdssbeac)
