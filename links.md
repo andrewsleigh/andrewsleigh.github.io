@@ -12,4 +12,4 @@ Things I'm pointing to on other services:
 
 [Buy my plotter art](https://penuppendown.square.site)
 
-[Workshop events at Plus X](https://www.eventbrite.co.uk/e/make-at-plus-x-hand-made-leather-goods-workshop-tickets-159819017985?aff=ebdssbeac)
+[Workshop events at Plus X - Soft robots and e-textiles with Emilie Giles](http://www.eventbrite.co.uk/e/178110141227/?discount=friendsofplusx)
