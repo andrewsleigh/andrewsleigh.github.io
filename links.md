@@ -12,4 +12,6 @@ Things I'm pointing to on other services:
 
 [Buy my plotter art](https://penuppendown.square.site)
 
-[Workshop events at Plus X - Soft robots and e-textiles with Emilie Giles](http://www.eventbrite.co.uk/e/178110141227/?discount=friendsofplusx)
+[Plus X - Product Foundry Programme](https://www.briteinnovation.co.uk/product-foundry)
+
+[Plus X - Workshop technician job](https://careers.plusx.space/en/jobs/60893)
